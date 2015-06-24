@@ -1,0 +1,6 @@
+C:\Users\Graham\Desktop\ebooks\C#\C-Sharp-Succinctly_Code\C# Succinctly Code\Chapter01\Greetings\bin\Debug\Greetings.exe.config
+C:\Users\Graham\Desktop\ebooks\C#\C-Sharp-Succinctly_Code\C# Succinctly Code\Chapter01\Greetings\bin\Debug\Greetings.exe
+C:\Users\Graham\Desktop\ebooks\C#\C-Sharp-Succinctly_Code\C# Succinctly Code\Chapter01\Greetings\bin\Debug\Greetings.pdb
+C:\Users\Graham\Desktop\ebooks\C#\C-Sharp-Succinctly_Code\C# Succinctly Code\Chapter01\Greetings\obj\Debug\Greetings.csprojResolveAssemblyReference.cache
+C:\Users\Graham\Desktop\ebooks\C#\C-Sharp-Succinctly_Code\C# Succinctly Code\Chapter01\Greetings\obj\Debug\Greetings.exe
+C:\Users\Graham\Desktop\ebooks\C#\C-Sharp-Succinctly_Code\C# Succinctly Code\Chapter01\Greetings\obj\Debug\Greetings.pdb

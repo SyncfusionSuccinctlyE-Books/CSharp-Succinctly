@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22609.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumingAsync", "ConsumingAsync\ConsumingAsync.csproj", "{B434D62A-0931-473E-908C-387D58B6B230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncLibrary", "AsyncLibrary\AsyncLibrary.csproj", "{E18982D3-9F22-436E-856E-1E30026F1C8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B434D62A-0931-473E-908C-387D58B6B230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B434D62A-0931-473E-908C-387D58B6B230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B434D62A-0931-473E-908C-387D58B6B230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B434D62A-0931-473E-908C-387D58B6B230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E18982D3-9F22-436E-856E-1E30026F1C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18982D3-9F22-436E-856E-1E30026F1C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18982D3-9F22-436E-856E-1E30026F1C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18982D3-9F22-436E-856E-1E30026F1C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

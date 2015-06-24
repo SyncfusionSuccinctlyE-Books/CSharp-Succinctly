@@ -1,0 +1,1 @@
+﻿public delegate void ClickHandler(object sender, ClickEventArgs e);
