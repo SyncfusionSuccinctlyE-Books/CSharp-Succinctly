@@ -1,0 +1,1 @@
+Code samples for *C# Succinctly* by Joe Mayo.
